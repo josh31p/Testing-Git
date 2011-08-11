@@ -37,6 +37,7 @@ package Data
 		}
 		
 		// we create an event listener to handle the result
+		//
 		public function getSurvey(event:ResultEvent):void
 		{
 			
